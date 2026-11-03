@@ -4,7 +4,7 @@
 
 This is a Product Owner portfolio project. I took one idea through the full product journey: discovery, research, problem framing, user flows, screen design, and a working proof of concept.
 
-**Live demo:** _add your GitHub Pages link here_
+**Live demo:** https://snehadubey1401.github.io/closet-check (open it on your phone)
 
 ---
 
